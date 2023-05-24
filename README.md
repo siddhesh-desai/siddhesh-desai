@@ -1,5 +1,9 @@
-<h1 align="center">Hello 👋, I'm Siddhesh Desai</h1>
-<h3 align="center">A full-time learner building innovative projects that will help the society!</h3>
+![logo](https://github.com/siddhesh-desai/siddhesh-desai/blob/main/banner-img.jpeg)
+
+<br>
+
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Siddhesh Desai</h1>
+<h3 align="center">A Full-time Learner Building Innovative Projects for a Better Society!</h3>
 
 <br>
 
